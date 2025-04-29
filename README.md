@@ -1,6 +1,5 @@
 # 📝 Formulário para Devs
 
-[![Status](https://img.shields.io/badge/status-em%20estudo-blue)]()
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)]()
 
